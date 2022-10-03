@@ -1,0 +1,20 @@
+body {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.rectangle-container {
+    width: 250px;
+    height: 250px;
+    background-color: purple;
+    position: relative;
+}
+
+.resize-button {
+    width: 100px;
+    height: 24px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+}
